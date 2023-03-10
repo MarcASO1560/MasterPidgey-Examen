@@ -1,3 +1,5 @@
+Marc Albert Seguí Olmos
+
 # MasterPidgey-Examen
 ## Examen de entornos de desarrollo: Segunda evaluación.(Parte 1)
 - Creo un repositorio en GitHub llamado **masterpidgey-examen**.
@@ -49,6 +51,7 @@ para saber a que le tengo que hacer **git add**.
 ## Crear el tag v0.1
 
 - Creo un tag llamado **v0.1**.
+
 ![tag1](img/Captura%20desde%202023-03-10%2008-58-16.png)
 
 ## Subir el tag v0.1
@@ -110,3 +113,6 @@ como colaborador del repositorio **MasterPidgey-Examen**
 ![pullcompare2](img/Captura%20desde%202023-03-10%2010-36-13.png)
 - Y cuando l hayamos dado al boton de Create pull request, se nos confirmará que nuestra rama no tiene ningń problema y solo quedará que el administrador revise su llegada de nuestro pull request.
 ![pullcompare3](img/Captura%20desde%202023-03-10%2010-36-30.png)
+
+# Conclusión
+ En definitiva, lo que podriamos describir como más relevante de este examen, obviando el aprendizaje de este trimestre, es la forma en la cual podemos usar nuestros archivos personales para un uso más medido y profesional. Haciendo uso del control de versiones para diferenciar los distintos cambios que le hagamos a los repositorios, o haciendo proyectos grandes con otras personas estando en distintas puntas del mundo, pudiendo también, editar proyctos de otras personas para editarlos y hacerlos tuyos.
