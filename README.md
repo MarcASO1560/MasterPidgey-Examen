@@ -76,7 +76,7 @@ con la información del docente del módulo:
 como colaborador del repositorio **MasterPidgey-Examen**
 ![maximocolaborador](img/Captura%20desde%202023-03-10%2010-06-30.png)
 
-# Enunciado ejercicios avanzados de Git, GitHub (Simulación examen parte 2)
+# Examen de entornos de desarrollo: Segunda evaluación.(Parte 2)
 
 ## Contribución al proyecto first-contributions
 
