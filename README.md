@@ -58,30 +58,22 @@ para saber a que le tengo que hacer **git add**.
 
 ## Visualizar los commits realizados hasta el momento
 
-- Escri
+- Escribo un **git log** para visualizar todos los commits hasta el momento.
+![gitlog](img/Captura%20desde%202023-03-10%2009-57-14.png)
 
-## Uso social de GitHub
-
-- Preguntar los nombres de usuario de GitHub de tus compañeros de clase, búscalos, y sigueles.(Ejemplo)
-![githubcompis](images/perfilcompa.png)
-- Seguir los repositorios **masterpidgey** del resto de tus compañeros.
-![star](images/estrellita.png)
-- Añadir una estrella a los repositorios **masterpidgey** del resto de tus compañeros.
 ## Crear una tabla
 
-- Crear una tabla de este estilo en el fichero **README.md**
-con la información de varios de tus compañeros de clase:
+- Creo una tabla con MarkDown en el **README.md**
+con la información del docente del módulo:
 
 |        NOMBRE          |                     GITHUB                        |
 |------------------------|---------------------------------------------------|
-| Nombre del compañero 1 | [Carlos Sanchez](http://github.com/CharlyMech) |
-| Nombre del compañero 2 | [David Tous](http://github.com/DavidTous) |
-| Nombre del compañero 3 | [Isaac](http://github.com/IsaacLolade) |
+| Máximo Fernández Riera | [maximofernandezriera](https://github.com/maximofernandezriera)|
 
 ## Colaboradores
 
 - Poner a [github.com/maximofernandezriera](http://github.com/maximofernandezriera)
 como colaborador del repositorio **masterpidgey**
-![maximocolaborador](images/colaboradorMaximo.png)
+![maximocolaborador](img/Captura%20desde%202023-03-10%2010-06-30.png)
 
 # Enunciado ejercicios avanzados de Git, GitHub (Simulación examen parte 2)
